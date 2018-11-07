@@ -1,6 +1,7 @@
 # Links
 
-A bunch of links that are useful in some way to electronics and robotics
+A bunch of links that are useful in some way to electronics and robotics.  
+NOTE: The online shops are ones available in South Africa.
 
 ****
 ## Various Links
